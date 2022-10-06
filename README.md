@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Andrea<br>👨‍🎓 I'm a Computer Science and Engineering student<br>👀 I’m interested in Machine Learning, Deep Learning & Neural Networks<br>👷‍♂️ I’m currently improving in application programming <br>📫 Add me on LinkedIn: linkedin.com/in/andreabertinotti/
+👋 Hi, I’m Andrea<br>👨‍🎓 I'm a Computer Science and Engineering student at Politecnico di Milano (Italy)<br>👀 I’m interested in Machine Learning, Deep Learning & Neural Networks<br>👷‍♂️ I’m currently improving in application programming <br>📫 Add me on LinkedIn: linkedin.com/in/andreabertinotti/
 
 
 ## 🌐 Socials:
